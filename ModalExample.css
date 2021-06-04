@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.modalChild{
+    background-color: white;
+    height: 200px;
+    width: 80%;
+    border: 5px solid rgba(255, 255, 0, 0.801);
+    margin-left: 10%;
+    margin-top: 25%;
+    /* position: fixed; */
+    padding: 10px;
+
+    
+}
+.modal{
+    background-color: rgba(0,0,0,0.3);
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    display: none;
+}
+input{
+    margin:10px 0 5px 0;
+}
+
+
